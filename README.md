@@ -7,28 +7,28 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1
-</br>
-</br> 
+
+Import cv2, matplotlib.py libraries and read the saved images using cv2.imread().
 
 ### Step2
-</br>
-</br> 
+
+Convert the saved BGR image to RGB using cvtColor().
 
 ### Step3
-</br>
-</br> 
+
+By using the following filters for image smoothing:filter2D
 
 ### Step4
-</br>
-</br> 
+
+Apply the filters using cv2.filter2D() for each respective filters.
 
 ### Step5
-</br>
-</br> 
+
+Plot the images of the original one and the filtered one using plt.figure() and cv2.imshow().
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   :V.NAVYA
+### Register Number:212221230069
 </br>
 
 ### 1. Smoothing Filters
